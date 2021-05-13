@@ -1,0 +1,164 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Finger Paint', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #334242;
+}
+h3{
+  font-family: 'Courgette', cursive;
+  word-spacing: 2px;
+  font-size: 1.5rem;
+  color: #334242;
+}
+a{
+  color: #362d3d;
+}
+a:hover{
+  color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+.intro{
+  width: 70%;
+  margin: auto;
+}
+
+
+.top-container{
+  padding: 200px 0;
+  position: relative;
+  background-image: url("../img/Tree.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.main-header{
+  width: 50%;
+  margin: auto 0 auto;
+  color: #334242;
+  font-size: 8rem;
+}
+.main-header2{
+  width: 50%;
+  margin: auto 0 auto;
+  padding-bottom: 100px;
+  color: #334242;
+  font-size: 4rem;
+  font-family: 'Indie Flower', cursive;
+}
+.middle-container{
+  background-color: #eeebdd;
+}
+
+.profile{
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2;
+  padding-bottom: 50px;
+}
+.my-face{
+  width: 150px;
+  padding: 50px 0;
+}
+.hello{
+  margin-top: 0;
+}
+.skills{
+  margin: 50px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-me{
+  margin: 50px auto 0;
+  width: 50%;
+  line-height: 2;
+}
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #97a2a2;
+
+}
+.footer-link{
+  padding: 30px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 30px;
+
+}
+
+.web-develop{
+  width: 25%;
+  float: left;
+  margin: 30px 30px 0 0;
+}
+.learning{
+  width: 25%;
+  border-radius: 0 50px 0 50px;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_RWE {
+   background: #767e86;
+   background-image: -webkit-linear-gradient(top, #5a7088, #211d30);
+   background-image: -moz-linear-gradient(top, #5a7088, #211d30);
+   background-image: -ms-linear-gradient(top, #5a7088, #211d30);
+   background-image: -o-linear-gradient(top, #5a7088, #211d30);
+   background-image: -webkit-gradient(to bottom, #5a7088, #211d30);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: normal;
+   padding: 10px 20PX;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #2b4264 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.BUTTON_RWE:hover {
+   border: solid #1e1f20 1px;
+   background: #282a2d;
+   background-image: -webkit-linear-gradient(top, #282a2d, #9081c7);
+   background-image: -moz-linear-gradient(top, #282a2d, #9081c7);
+   background-image: -ms-linear-gradient(top, #282a2d, #9081c7);
+   background-image: -o-linear-gradient(top, #282a2d, #9081c7);
+   background-image: -webkit-gradient(to bottom, #282a2d, #9081c7);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
